@@ -1,0 +1,5 @@
+name: LobbyAPI
+version: 1.1
+author: LastCraft
+main: net.lastcraft.lobby.Lobby
+depend: [BukkitConnector, DartaAPI, BoxAPI]

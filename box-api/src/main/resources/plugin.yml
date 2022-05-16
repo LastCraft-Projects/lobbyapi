@@ -1,0 +1,5 @@
+name: BoxAPI
+version: 1.0
+author: LastCraft
+main: net.lastcraft.box.BoxPlugin
+depend: [BukkitConnector, DartaAPI]

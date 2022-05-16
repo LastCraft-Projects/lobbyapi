@@ -1,0 +1,5 @@
+name: HubBoard
+version: 1.0
+author: LastCraft
+main: net.lastcraft.hub.HubBoard
+depend: [LobbyAPI]

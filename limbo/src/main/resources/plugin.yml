@@ -1,0 +1,5 @@
+name: Limbo
+author: LastCraft
+version: 1.0
+main: net.lastcraft.limbo.Limbo
+depend: [BukkitConnector]

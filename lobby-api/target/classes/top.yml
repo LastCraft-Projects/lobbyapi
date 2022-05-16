@@ -1,0 +1,15 @@
+Main: 'SurvivalGames'
+Time: 30 #время в минутах
+Tables:
+  top1:
+    Table: 'SGD'
+    HoloKey: 'SurvivalGames Doubles'
+  top2:
+    Table: 'SGS'
+    NameHolo: 'SurvivalGames Solo'
+Locations:
+- 'lobby;32.5;52.0;28.5;0.0;180.0'
+- 'lobby;34.5;51.0;27.5;0.0;180.0'
+- 'lobby;30.5;51.0;27.5;0.0;180.0'
+- 'lobby;36.5;50.0;26.5;0.0;180.0'
+- 'lobby;28.5;50.0;26.5;0.0;180.0'

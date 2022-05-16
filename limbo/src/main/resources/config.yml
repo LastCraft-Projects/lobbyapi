@@ -1,0 +1,3 @@
+timerestart: '00:11'
+login: true
+spawn: 'world;x;y;z;pitch;yaw'

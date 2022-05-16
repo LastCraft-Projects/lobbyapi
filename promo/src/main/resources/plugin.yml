@@ -1,0 +1,5 @@
+name: Promo
+version: 1.1
+author: LastCraft
+main: net.lastcraft.lobby.Promo
+depend: [DartaAPI]
